@@ -3,6 +3,7 @@
 ## Projects:
 ### Currently working on:
 - [ddnet map rate](https://github.com/l-ouis/ddnet-map-rate)
+- [simple collision nn](https://github.com/l-ouis/simple-collision-nn)
 ### Complete:
 - [KAL-Duet](https://github.com/l-ouis/KAL-Duet)
 - [ArtiVision](https://github.com/l-ouis/ArtiVision)
