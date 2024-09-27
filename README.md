@@ -1,6 +1,5 @@
 # ^^
 
-## Projects:
 ### Currently working on:
 - [24Cast & More](https://github.com/BPR-Data-Team)
 - [nocalculators](https://github.com/l-ouis/nocalculators)
